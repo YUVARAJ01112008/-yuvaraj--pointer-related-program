@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <conio.h>
-int main() 
+void main() 
 {
     int age = 25;
     int *ptr = &age;
